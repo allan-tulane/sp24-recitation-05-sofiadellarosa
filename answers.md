@@ -13,13 +13,13 @@ Place all written answers from `recitation-05.md` here for easier grading.
 
 
 - **1b.**
-Task: compare the running times of compare search between variants of Quicksort and the provided implementation of selection sort.
+- Task: compare the running times of compare search between variants of Quicksort and the provided implementation of selection sort.
 
-Answer: 
+- Answer: 
 
-Quicksort --> O(nlogn) complexity for the average case and O(n^2) for worst case
-Selection sort --> O(n^2) for average case and worst case 
-![image](image.png)
+- Quicksort --> O(nlogn) complexity for the average case and O(n^2) for worst case
+- Selection sort --> O(n^2) for average case and worst case 
+- ![image](image.png)
 
 
 - **1c.**
